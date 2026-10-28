@@ -36,13 +36,13 @@ Aquí puedes ver el diseño interactivo directamente en Figma:
 ![Mi Stock](mockup-exports/Frame-Mi-Stock.png)
 
 ### Nuevo Producto
-![Nuevo Producto](mockup-exports/Frame-Nuevo-Producto.png_)
+![Nuevo Producto](mockup-exports/Frame-Nuevo-Producto.png)
 
 ### Usuarios (Admin)
-![Usuarios](mockup-exports/Frame-Usuarios.png_)
+![Usuarios](mockup-exports/Frame-Usuarios.png)
 
 ### Catalogo global
-![Catalogo global](mockup-exports/Frame-Catalogo-Global.png_)
+![Catalogo global](mockup-exports/Frame-Catalogo-Global.png)
 
 ### Métricas
-![Métricas](mockup-exports/Frame-Metricas.png_)
+![Métricas](mockup-exports/Frame-Metricas.png)
