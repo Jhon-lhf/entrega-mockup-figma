@@ -10,3 +10,39 @@ Aquí puedes ver el diseño interactivo directamente en Figma:
 
 ### Login
 ![Login](mockup-exports/Frame-Login.png)
+
+### Registro
+![Registro](mockup-exports/Frame-Registro.png)
+
+### Catalogo (Cliente)
+![Catalogo](mockup-exports/Frame-Catalogo-Cliente.png)
+
+### Carrito
+![Carrito](mockup-exports/Frame-Carrito.png)
+
+### Lista de Deseos
+![Lista de Deseos](mockup-exports/Frame-Deseos.png)
+
+### Mis Pedidos
+![Mis pedidos](mockup-exports/Frame-Mis-Pedidos.png)
+
+### Detalle Producto
+![Detalle Producto](mockup-exports/Frame-Detalle-Producto.png)
+
+### Cola-LIFO (Vendedor)
+![Cola-LIFO](mockup-exports/Frame-Cola-Lifo.png)
+
+### Mi Stock
+![Mi Stock](mockup-exports/Frame-Mi-Stock.png)
+
+### Nuevo Producto
+![Nuevo Producto](mockup-exports/Frame-Nuevo-Producto.png_)
+
+### Usuarios (Admin)
+![Usuarios](mockup-exports/Frame-Usuarios.png_)
+
+### Catalogo global
+![Catalogo global](mockup-exports/Frame-Catalogo-Global.png_)
+
+### Métricas
+![Métricas](mockup-exports/Frame-Metricas.png_)
