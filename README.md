@@ -30,7 +30,7 @@ Aquí puedes ver el diseño interactivo directamente en Figma:
 ![Detalle Producto](mockup-exports/Frame-Detalle-Producto.png)
 
 ### Cola-LIFO (Vendedor)
-![Cola-LIFO](mockup-exports/Frame-Cola-Lifo.png)
+![Cola-LIFO](mockup-exports/Frame-Cola-LIFO.png)
 
 ### Mi Stock
 ![Mi Stock](mockup-exports/Frame-Mi-Stock.png)
